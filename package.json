@@ -1,0 +1,36 @@
+{
+  "name": "stickyants-node-forkjoin",
+  "version": "1.0.0",
+  "description": "A NodeJS multi-threaded (inter-process) task automation framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhdev/stickyants-node-forkjoin.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "IPC",
+    "Multi-Threaded",
+    "Task",
+    "Automation"
+  ],
+  "author": "Suhail Abood <suhail.abood@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhdev/stickyants-node-forkjoin/issues"
+  },
+  "homepage": "https://github.com/suhdev/stickyants-node-forkjoin#readme",
+  "devDependencies": {
+    "@types/express": "^4.16.0",
+    "@types/node": "^10.12.18",
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0",
+    "typescript": "^3.2.2"
+  },
+  "dependencies": {
+    "rxjs": "^6.3.3"
+  }
+}
