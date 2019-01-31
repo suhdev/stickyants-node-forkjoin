@@ -4,7 +4,7 @@
   "description": "A NodeJS multi-threaded (inter-process) task automation framework.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
